@@ -157,7 +157,7 @@ button:hover, #submit:hover, button:active, #submit:active {
   50% {
     box-shadow: none;
   }
-
+}
 
 @keyframes glow-2 {
   0%,
